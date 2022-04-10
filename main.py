@@ -17,12 +17,12 @@ import rec_rc
 
 default_dict = {
         "cards"     : {
-            "Вконтакте" : ["www.vk.com", "latemrockman", "qwerty", "номре телефона 8 926 555 40 02\ne-mail 5554002@mail.ru"],
-            "Яндекс"    : ["yandex.ru", "latemrockman", "Qwe123", "запасная почта 6strunoff@yandex.ru\nсекретный вопрос: Яичница"],
-            "Мейл"      : ["mailru", "latemrockman", "QQQAAaa1", "запасная почта 5554002@mail.ru\nсекретный вопрос: Соловьева"],
-            "Работа.ру" : ["rabota.ru", "latemrockman", "TREGFD", "всем привет"],
-            "ГОСУСЛУГИ" : ["gosuslugi.ru", "latemrockman", "NashaRasha!_+", "СНЛС 34535367778\nИНН 6464768"],
-            "Хед хантер": ["hh.ru", "latemrockman", "QwepRIVET", "ищу работу"]
+            "Вконтакте" : ["www.vk.com", "andrew-vk", "qwerty", "номре телефона 8 926 555 44 33\ne-mail 4523543@mail.ru"],
+            "Яндекс"    : ["yandex.ru", "andrey-ya", "Qwe123", "запасная почта andre@yandex.ru\nсекретный вопрос: Яичница"],
+            "Мейл"      : ["mailru", "andr-mail", "QQQAAaa1", "запасная почта 4523543@mail.ru\nсекретный вопрос: Иванова"],
+            "Работа.ру" : ["rabota.ru", "andre-rabota", "TREGFD", "всем привет"],
+            "ГОСУСЛУГИ" : ["gosuslugi.ru", "gos-andrew", "Privet!_+", "СНЛС 34535367778\nИНН 6464768"],
+            "Хед хантер": ["hh.ru", "work-andrew", "QwepRIVET", "ищу работу"]
         },
         "settings"  : {
             "x"     : 10,
